@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+Movie Ticket Booking Admin Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a React Admin Dashboard made for the Upzenix Internship Week 3 Assignment.
+It includes routing, context API, reusable components, and multiple pages like Movies, Dashboard, Calendar, Kanban, Analytics, and Settings.
 
-## Available Scripts
+The UI is built using Tailwind CSS, and some extra libraries like React Big Calendar, Recharts, and Drag & Drop for the Kanban board.
 
-In the project directory, you can run:
+Features
 
-### `npm start`
+Dashboard with stats and charts
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Movies page (view, add, edit movies)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Movie details page
 
-### `npm test`
+Calendar with event creation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Kanban board with drag & drop
 
-### `npm run build`
+Analytics page with charts
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Tickets table (CRUD + filters)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Light/Dark theme
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Sidebar and topbar navigation
 
-### `npm run eject`
+Tech Stack
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+React
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+React Router DOM
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Context API
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Tailwind CSS
 
-## Learn More
+Lucide Icons
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+React Big Calendar
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Recharts
 
-### Code Splitting
+@hello-pangea/dnd
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+How to Run
+npm install
+npm start
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+The project will open at:
+http://localhost:3000
 
-### Making a Progressive Web App
+Purpose
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+This project was created as a part of the Upzenix Full Stack Internship to practice:
 
-### Advanced Configuration
+Routing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Context API
 
-### Deployment
+Reusable components
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Working with UI libraries
 
-### `npm run build` fails to minify
+State management
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Responsive dashboard layouts
+
+Author
+
+Bhavyasree Raju
+Upzenix Internship – Week 3 Assignment
