@@ -1,5 +1,10 @@
 Movie Ticket Booking Admin Dashboard
 
+------------------------------------
+Watch the project demo here:
+https://1drv.ms/v/c/1c2af590df30eee9/IQADBwg6q3sXSI7OjsqYYKrDAXdbuLWbY7D68o8WprPam4I?e=kpIahz
+------------------------------------
+
 This project is a React Admin Dashboard made for the Upzenix Internship Week 3 Assignment.
 It includes routing, context API, reusable components, and multiple pages like Movies, Dashboard, Calendar, Kanban, Analytics, and Settings.
 
